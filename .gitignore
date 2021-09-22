@@ -2,6 +2,7 @@ data/*
 data/
 ._*
 utils/._*
+.ipynb_checkpoints
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
 utils/__pycache__/
