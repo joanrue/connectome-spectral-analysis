@@ -1,4 +1,4 @@
-# connectome_spectral_analysis
+# connectome-spectral-analysis
 Repository for paper "The connectome spectrum as a canonical basis for a sparse representation of fast brain activity"
 https://doi.org/10.1016/j.neuroimage.2021.118611
 
